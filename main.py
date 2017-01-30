@@ -19,7 +19,7 @@ import webapp2
 
 class MainHandler(webapp2.RequestHandler):
     def get(self):
-        self.response.write('Hello world, I\'m David Huang, I just want to say Hi zzxzx!')
+        self.response.write('Hello world, I\'m David Huang, I just want to say Hi vv!')
 
 
 app = webapp2.WSGIApplication([
